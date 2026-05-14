@@ -12,7 +12,6 @@ Currently working with:
 - Node.js
 - Kotlin
 - REST APIs
-- Automated Testing
 
 I enjoy learning new technologies and building modern applications focused on performance, usability, and clean architecture.
 
