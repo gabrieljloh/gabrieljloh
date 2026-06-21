@@ -6,7 +6,6 @@ Currently working with:
 - JavaScript / TypeScript
 - React & React Native
 - Node.js
-- Kotlin
 - REST APIs
 
 I enjoy learning new technologies and building modern applications focused on performance, usability, and clean architecture.
@@ -19,7 +18,6 @@ I enjoy learning new technologies and building modern applications focused on pe
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
